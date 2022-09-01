@@ -1,2 +1,7 @@
 # mlpack_examples
-My mlpack examples, compiled and run using GitHub Actions
+
+mlpack is a [C++ AI library](https://github.com/richelbilderbeek/cpp_ai_libraries).
+
+Here I show my examples the use `mlpack`, built with GitHub Actions.
+
+ * [1. Hello World](https://github.com/richelbilderbeek/mlpack_example_1)
