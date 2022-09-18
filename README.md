@@ -11,4 +11,5 @@ Here I show my examples the use `mlpack`, built with GitHub Actions.
 
 ## Links
 
- * mlpack GitHub: [https://github.com/mlpack/mlpack](https://github.com/mlpack/mlpack)
+ * mlpack homepage: [https://mlpack.org/](https://mlpack.org/)
+ * mlpack GitHub repository: [https://github.com/mlpack/mlpack](https://github.com/mlpack/mlpack)
